@@ -1,0 +1,182 @@
+{\rtf1\adeflang1025\ansi\ansicpg1252\uc1\adeff0\deff0\stshfdbch40\stshfloch40\stshfhich40\stshfbi0\deflang1033\deflangfe1033{\fonttbl{\f0\froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}{\f2\fmodern\fcharset0\fprq1{\*\panose 02070309020205020404}Courier New;}
+{\f3\froman\fcharset2\fprq2{\*\panose 05050102010706020507}Symbol;}{\f10\fnil\fcharset2\fprq2{\*\panose 05000000000000000000}Wingdings;}{\f40\fswiss\fcharset0\fprq2{\*\panose 020f0502020204030204}Calibri;}
+{\f41\froman\fcharset2\fprq2{\*\panose 05030102010509060703}Webdings;}{\f42\fswiss\fcharset0\fprq2{\*\panose 020e0705020206020404}Copperplate Gothic Bold{\*\falt Arial};}{\f43\froman\fcharset0\fprq2{\*\panose 02030602050306030303}Constantia;}
+{\f129\froman\fcharset238\fprq2 Times New Roman CE;}{\f130\froman\fcharset204\fprq2 Times New Roman Cyr;}{\f132\froman\fcharset161\fprq2 Times New Roman Greek;}{\f133\froman\fcharset162\fprq2 Times New Roman Tur;}
+{\f134\fbidi \froman\fcharset177\fprq2 Times New Roman (Hebrew);}{\f135\fbidi \froman\fcharset178\fprq2 Times New Roman (Arabic);}{\f136\froman\fcharset186\fprq2 Times New Roman Baltic;}{\f137\froman\fcharset163\fprq2 Times New Roman (Vietnamese);}
+{\f149\fmodern\fcharset238\fprq1 Courier New CE;}{\f150\fmodern\fcharset204\fprq1 Courier New Cyr;}{\f152\fmodern\fcharset161\fprq1 Courier New Greek;}{\f153\fmodern\fcharset162\fprq1 Courier New Tur;}
+{\f154\fbidi \fmodern\fcharset177\fprq1 Courier New (Hebrew);}{\f155\fbidi \fmodern\fcharset178\fprq1 Courier New (Arabic);}{\f156\fmodern\fcharset186\fprq1 Courier New Baltic;}{\f157\fmodern\fcharset163\fprq1 Courier New (Vietnamese);}
+{\f529\fswiss\fcharset238\fprq2 Calibri CE;}{\f530\fswiss\fcharset204\fprq2 Calibri Cyr;}{\f532\fswiss\fcharset161\fprq2 Calibri Greek;}{\f533\fswiss\fcharset162\fprq2 Calibri Tur;}{\f536\fswiss\fcharset186\fprq2 Calibri Baltic;}
+{\f537\fswiss\fcharset163\fprq2 Calibri (Vietnamese);}{\f559\froman\fcharset238\fprq2 Constantia CE;}{\f560\froman\fcharset204\fprq2 Constantia Cyr;}{\f562\froman\fcharset161\fprq2 Constantia Greek;}{\f563\froman\fcharset162\fprq2 Constantia Tur;}
+{\f566\froman\fcharset186\fprq2 Constantia Baltic;}{\f567\froman\fcharset163\fprq2 Constantia (Vietnamese);}}{\colortbl;\red0\green0\blue0;\red0\green0\blue255;\red0\green255\blue255;\red0\green255\blue0;\red255\green0\blue255;\red255\green0\blue0;
+\red255\green255\blue0;\red255\green255\blue255;\red0\green0\blue128;\red0\green128\blue128;\red0\green128\blue0;\red128\green0\blue128;\red128\green0\blue0;\red128\green128\blue0;\red128\green128\blue128;\red192\green192\blue192;}{\stylesheet{
+\ql \li0\ri0\sa200\sl276\slmult1\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs22\alang1025 \ltrch\fcs0 \f40\fs22\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \snext0 \styrsid14614757 Normal;}{\*\cs10 
+\additive \ssemihidden Default Paragraph Font;}{\*
+\ts11\tsrowd\trftsWidthB3\trpaddl108\trpaddr108\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3\trcbpat1\trcfpat1\tblind0\tblindtype3\tscellwidthfts0\tsvertalt\tsbrdrt\tsbrdrl\tsbrdrb\tsbrdrr\tsbrdrdgl\tsbrdrdgr\tsbrdrh\tsbrdrv 
+\ql \li0\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\lang1024\langfe1024\loch\f40\hich\af40\dbch\af40\cgrid\langnp1024\langfenp1024 \snext11 \ssemihidden Normal Table;}{
+\s15\ql \li720\ri0\sa200\sl276\slmult1\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin720\itap0\contextualspace \rtlch\fcs1 \af0\afs22\alang1025 \ltrch\fcs0 \f40\fs22\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 
+\sbasedon0 \snext15 \styrsid12341163 List Paragraph;}{\*\cs16 \additive \rtlch\fcs1 \af0 \ltrch\fcs0 \ul\cf2 \sbasedon10 \styrsid15224464 Hyperlink;}}
+{\*\latentstyles\lsdstimax156\lsdlockeddef0{\lsdlockedexcept Normal;heading 1;heading 2;heading 3;heading 4;heading 5;heading 6;heading 7;heading 8;heading 9;toc 1;toc 2;toc 3;toc 4;toc 5;toc 6;toc 7;toc 8;toc 9;caption;Title;Default Paragraph Font;Subtitle;Strong;Emphasis;Table Grid;}}
+{\*\listtable{\list\listtemplateid1604624174\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid-981836776\'01\u-3997 ?;}{\levelnumbers;}\f41\fbias0 
+\fi-360\li720\lin720 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\leveltemplateid67698691\'01o;}{\levelnumbers;}\f2\fbias0 \fi-360\li1440\lin1440 }{\listlevel\levelnfc23
+\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\leveltemplateid67698693\'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0 \fi-360\li2160\lin2160 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0
+\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\leveltemplateid67698689\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li2880\lin2880 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1
+\lvltentative\levelspace0\levelindent0{\leveltext\leveltemplateid67698691\'01o;}{\levelnumbers;}\f2\fbias0 \fi-360\li3600\lin3600 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0
+{\leveltext\leveltemplateid67698693\'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0 \fi-360\li4320\lin4320 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\leveltemplateid67698689
+\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li5040\lin5040 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\leveltemplateid67698691\'01o;}{\levelnumbers;}\f2\fbias0 
+\fi-360\li5760\lin5760 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\leveltemplateid67698693\'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0 \fi-360\li6480\lin6480 }{\listname 
+;}\listid146635515}{\list\listtemplateid-872514500\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid-981836776\'01\u-3997 ?;}{\levelnumbers;}\f41\fbias0 
+\fi-360\li720\lin720 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid-981836776\'01\u-3997 ?;}{\levelnumbers;}\f41\fbias0 \fi-360\li1440\lin1440 }{\listlevel\levelnfc23
+\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\leveltemplateid67698693\'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0 \fi-360\li2160\lin2160 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0
+\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\leveltemplateid67698689\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li2880\lin2880 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1
+\lvltentative\levelspace0\levelindent0{\leveltext\leveltemplateid67698691\'01o;}{\levelnumbers;}\f2\fbias0 \fi-360\li3600\lin3600 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0
+{\leveltext\leveltemplateid67698693\'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0 \fi-360\li4320\lin4320 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\leveltemplateid67698689
+\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li5040\lin5040 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\leveltemplateid67698691\'01o;}{\levelnumbers;}\f2\fbias0 
+\fi-360\li5760\lin5760 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\leveltemplateid67698693\'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0 \fi-360\li6480\lin6480 }{\listname 
+;}\listid1590192747}{\list\listtemplateid922152544\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid-981836776\'01\u-3997 ?;}{\levelnumbers;}\f41\fbias0 
+\fi-360\li720\lin720 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\leveltemplateid67698691\'01o;}{\levelnumbers;}\f2\fbias0 \fi-360\li1440\lin1440 }{\listlevel\levelnfc23
+\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\leveltemplateid67698693\'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0 \fi-360\li2160\lin2160 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0
+\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\leveltemplateid67698689\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li2880\lin2880 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1
+\lvltentative\levelspace0\levelindent0{\leveltext\leveltemplateid67698691\'01o;}{\levelnumbers;}\f2\fbias0 \fi-360\li3600\lin3600 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0
+{\leveltext\leveltemplateid67698693\'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0 \fi-360\li4320\lin4320 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\leveltemplateid67698689
+\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li5040\lin5040 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\leveltemplateid67698691\'01o;}{\levelnumbers;}\f2\fbias0 
+\fi-360\li5760\lin5760 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\leveltemplateid67698693\'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0 \fi-360\li6480\lin6480 }{\listname 
+;}\listid1650010401}{\list\listtemplateid1706220022\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid-981836776\'01\u-3997 ?;}{\levelnumbers;}\f41\fbias0 
+\fi-360\li720\lin720 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid-981836776\'01\u-3997 ?;}{\levelnumbers;}\f41\fbias0 \fi-360\li1440\lin1440 }{\listlevel\levelnfc23
+\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\leveltemplateid67698693\'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0 \fi-360\li2160\lin2160 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0
+\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\leveltemplateid67698689\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li2880\lin2880 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1
+\lvltentative\levelspace0\levelindent0{\leveltext\leveltemplateid67698691\'01o;}{\levelnumbers;}\f2\fbias0 \fi-360\li3600\lin3600 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0
+{\leveltext\leveltemplateid67698693\'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0 \fi-360\li4320\lin4320 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\leveltemplateid67698689
+\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li5040\lin5040 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\leveltemplateid67698691\'01o;}{\levelnumbers;}\f2\fbias0 
+\fi-360\li5760\lin5760 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace0\levelindent0{\leveltext\leveltemplateid67698693\'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0 \fi-360\li6480\lin6480 }{\listname 
+;}\listid1758475802}}{\*\listoverridetable{\listoverride\listid146635515\listoverridecount0\ls1}{\listoverride\listid1758475802\listoverridecount0\ls2}{\listoverride\listid1590192747\listoverridecount0\ls3}{\listoverride\listid1650010401
+\listoverridecount0\ls4}}{\*\rsidtbl \rsid75239\rsid1835053\rsid1835533\rsid2324684\rsid3556935\rsid4859673\rsid4941799\rsid5394942\rsid5570672\rsid5915918\rsid8278948\rsid8468555\rsid9573219\rsid9715913\rsid9726008\rsid10689079\rsid12341163\rsid14614757
+\rsid15224464\rsid16396887}{\*\generator Microsoft Word 11.0.0000;}{\info{\title OPPORTUNITES FOR SHIELD SENIORS}{\author Tommy}{\operator dj180002}{\creatim\yr2010\mo10\dy4\hr17\min19}{\revtim\yr2010\mo10\dy4\hr17\min19}
+{\printim\yr2010\mo7\dy31\hr22\min23}{\version2}{\edmins2}{\nofpages3}{\nofwords994}{\nofchars5671}{\nofcharsws6652}{\vern24615}{\*\password 00000000}}{\*\xmlnstbl {\xmlns1 http://schemas.microsoft.com/office/word/2003/wordml}}
+\paperw12240\paperh15840\margl1296\margr720\margt720\margb720\gutter0\ltrsect 
+\widowctrl\ftnbj\aenddoc\donotembedsysfont1\donotembedlingdata0\grfdocevents0\validatexml1\showplaceholdtext0\ignoremixedcontent0\saveinvalidxml0\showxmlerrors1\noxlattoyen\expshrtn\noultrlspc\dntblnsbdb\nospaceforul\formshade\horzdoc\dgmargin\dghspace110
+\dgvspace180\dghorigin1296\dgvorigin720\dghshow2\dgvshow1
+\jexpand\viewkind1\viewscale100\pgbrdrhead\pgbrdrfoot\splytwnine\ftnlytwnine\htmautsp\nolnhtadjtbl\useltbaln\alntblind\lytcalctblwd\lyttblrtgr\lnbrkrule\nobrkwrptbl\snaptogridincell\allowfieldendsel\wrppunct
+\asianbrkrule\rsidroot4941799\newtblstyruls\nogrowautofit \fet0{\*\wgrffmtfilter 2450}\ilfomacatclnup0\ltrpar \sectd \ltrsect\linex0\endnhere\sectlinegrid360\sectdefaultcl\sectrsid8278948\sftnbj {\*\pnseclvl1\pnucrm\pnstart1\pnindent720\pnhang 
+{\pntxta .}}{\*\pnseclvl2\pnucltr\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl3\pndec\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl4\pnlcltr\pnstart1\pnindent720\pnhang {\pntxta )}}{\*\pnseclvl5\pndec\pnstart1\pnindent720\pnhang {\pntxtb (}
+{\pntxta )}}{\*\pnseclvl6\pnlcltr\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl7\pnlcrm\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl8\pnlcltr\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl9
+\pnlcrm\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}\pard\plain \ltrpar\qc \li0\ri0\sa200\sl276\slmult1\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid4941799 \rtlch\fcs1 \af0\afs22\alang1025 \ltrch\fcs0 
+\f40\fs22\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f42\fs32\insrsid3556935\charrsid9726008 OPPORTUNITES FOR SHIELD SENIORS!
+\par }\pard \ltrpar\qc \li0\ri0\sl276\slmult1\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid9715913 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f43\insrsid3556935 
+SHIELD has many opportunities to share in the celebration of your high school graduates!  
+\par We hope you will take advantage of as many of them as possible!
+\par }\pard \ltrpar\ql \li0\ri0\sb240\sa200\sl276\slmult1\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid9715913 {\rtlch\fcs1 \af0 \ltrch\fcs0 \b\f43\ul\insrsid3556935\charrsid9715913 YEARBOOK
+\par }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f43\insrsid3556935 Seniors are featured in our yearbook although it is created for all grades from Kindergarten all the way to your precious seniors!  
+\par }\pard \ltrpar\ql \li0\ri0\sa200\sl276\slmult1\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid4941799 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f43\ul\insrsid3556935\charrsid9715913 Senior Page
+\par }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f43\insrsid3556935 \tab This is a page dedicated to your seni
+or.  It will feature their name and senior portrait prominently and from there it is a blank canvas for the senior to create a tribute!  Some students primarily use pictures of friends or from childhood.  Some use it as a walk down memory lane.  Some ment
+i
+on awards they have received or plans they have.  Some include poetry or artwork. Most include thanks to those that helped them reach this goal.  This page needs to be about them and by them if possible.   The Yearbook Staff will provide training and will
+ create a page to your specifications if that is what you would like.
+\par }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f43\ul\insrsid3556935\charrsid9715913 Senior Portraits
+\par }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f43\insrsid3556935 \tab Many of our students get their portraits taken at Studio G.  This studio works directly with our yearbook staff in the production of the yearbook.  It is our hope that y
+ou will consider them when purchasing your senior pictures.  Since Senior Portraits take more time than regular portraits, Seniors need to schedule an appoint with Studio G directly instead of coming to our regular Picture Days.  Even if you choose not to
+ purchase your pictures through Studio G, we would like you to get a portrait done there to be included in the yearbook.  They will charge a small sitting fee for this.
+\par }\pard \ltrpar\ql \li0\ri0\sa200\sl276\slmult1\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid9715913 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f43\ul\insrsid3556935\charrsid9715913 Senior Personalization
+\par }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f43\insrsid3556935 \tab We will have senior yearbooks embossed with each senior\rquote s name a
+s they want it to be printed.  Some students want first, middle, and last.  Others only want first and last.  Some want their formal name as opposed to the name they are normally called (i.e. Andrew vs. Andy).  A yearbook staff member will contact you to 
+determine your preference.
+\par }\pard \ltrpar\ql \li0\ri0\sa200\sl276\slmult1\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid4941799 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f43\ul\insrsid3556935\charrsid9715913 Senior Ads
+\par }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f43\insrsid3556935 \tab 
+We sell Senior Ads at a reduced rate to our senior families.  Many parents and/or grandparents like to place an ad congratulating their graduate.  Sometimes friends and extended family even get in on this.  Blessings a
+nd words of encouragement along with childhood pictures are usually the theme of these ads.  Parents are welcome to create these pages and the Yearbook Staff will provide a training session or a staff member will create it according to your specifications
+.}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f43\cf1\insrsid3556935\charrsid1835533  }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f43\cf1\insrsid3556935 
+ However, we would encourage you to go ahead and pull out those old photos and get them scanned into the computer now before the deadlines sneak up on you.}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f43\insrsid3556935 
+\par }\pard \ltrpar\qc \li0\ri0\sa200\sl276\slmult1\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid5570672 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f43\insrsid3556935 Full Page Ad - $50\tab Half Page Ad - $40\tab Quarter Page Ad - $25
+
+\par }\pard \ltrpar\qc \li0\ri0\sa200\sl276\slmult1\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid9726008 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f43\insrsid3556935 
+\par }\pard \ltrpar\ql \li0\ri0\sa200\sl276\slmult1\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid9726008 {\rtlch\fcs1 \af0 \ltrch\fcs0 \b\f43\ul\insrsid3556935 
+\par 
+\par }{\rtlch\fcs1 \af0 \ltrch\fcs0 \b\f43\ul\insrsid3556935\charrsid9715913 ACHIEVEMENT NIGHT
+\par }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f43\insrsid3556935 Achievement Night 
+is an evening to recognize the achievements of all of our students, but Kindergarten Graduates and Senior Graduates are featured.  We love this mix because we get to see those at the start of this homeschooling journey and also those who are finishing up.
+  And this gives us the inspiration and courage to continue on!
+\par }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f43\ul\insrsid3556935\charrsid9715913 Cap & Gown
+\par }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f43\insrsid3556935 \tab   For some students, this will be their only public senior recognition.  To this end, we require all seniors to wear a cap and gown to make this a special event for everyone.  You c
+an obtain one online fairly inexpensively or perhaps you can borrow one. 
+\par }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f43\ul\insrsid3556935\charrsid9715913 Blessing and Encouragement
+\par }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f43\insrsid3556935 \tab Each Graduate Family will have 2-3 minutes to speak to bless the graduate or say thanks to the teachers.  We must observe this time limit strictly in orde
+r to keep the event enjoyable for all involved.  We know there is so much more we parents want to say before they go and time is running short, but please plan in advance so you can respect all those attending.
+\par \tab During this time you are welcome to award your student a diploma if that is appropriate, but not all students will do this since some participate in graduation ceremonies with their accountability organization.
+\par }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f43\ul\insrsid3556935\charrsid9715913 Engraved Medal
+\par }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f43\insrsid3556935 \tab Parent will be given a \'93Class of ___\'94
+ medal to present to their student that has been engraved with his/her name.  A yearbook staff member will contact you to determine your preference.  Someone from the Achievement Night Team will contact you to get this information.
+\par }\pard \ltrpar\ql \li0\ri0\sa200\sl276\slmult1\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid75239 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f43\ul\insrsid3556935 Senior Slide Show}{\rtlch\fcs1 \af0 \ltrch\fcs0 
+\f43\ul\insrsid3556935\charrsid9715913 
+\par }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f43\insrsid3556935 \tab 
+We create a Senior Slide Show set to music that has pictures of each senior through the years.  We need to you gather the pictures together and send them to us.  You probably have already gathered these pictures to create a 
+Senior Ad, but if not, you need to gather them and scan them into the computer so you can send us some for this special memory!  We will send out emails with more information later, but start gathering them now.  Time flies during this special time of you
+r student\rquote s life!
+\par }\pard \ltrpar\qc \li0\ri0\sa200\sl276\slmult1\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid9715913 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f43\insrsid3556935 IMPORTANT DEADLINES:
+\par SENIOR PORTRAITS MUST BE TAKEN BY NOVEMBER 30}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f43\super\insrsid3556935\charrsid5570672 TH}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f43\insrsid3556935 
+\par SENIOR PAGES AND SENIOR ADS MUST BE COMPLETED BY DECEMBER 30}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f43\super\insrsid3556935\charrsid9726008 TH}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f43\insrsid3556935 
+\par ACHIEVEMENT NIGHT WILL BE HELD IN EARLY MAY
+\par YEARBOOKS WILL BE DISTRIBUTED AT THAT TIME}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f43\super\insrsid3556935 
+\par }\pard \ltrpar\ql \li0\ri0\sa200\sl276\slmult1\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid9715913 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f43\insrsid3556935 
+\par }\pard \ltrpar\qc \li0\ri0\sa200\sl276\slmult1\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid75239 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f43\insrsid3556935 AND OF COURSE, DON\rquote T FORGET TO PURCHASE YOUR YEARBOOK!\page 
+
+\par }\pard \ltrpar\qc \li0\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid12341163 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f43\fs44\insrsid3556935\charrsid4859673 Senior Graduate Information
+\par }\pard \ltrpar\ql \li0\ri0\sb240\sa200\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid4859673 {\rtlch\fcs1 \af0 \ltrch\fcs0 \b\f43\ul\insrsid3556935\charrsid4859673 Yearbook Information
+\par }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f43\insrsid3556935 Senior Page \endash  Yearbook \endash  for students
+\par {\listtext\pard\plain\ltrpar \s15 \rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \fs22\loch\af41\hich\af41\dbch\af0\insrsid3556935 \loch\af41\dbch\af0\hich\f41 \'63\tab}}\pard\plain \ltrpar
+\s15\ql \fi-360\li720\ri0\sa200\widctlpar\wrapdefault\aspalpha\aspnum\faauto\ls1\adjustright\rin0\lin720\itap0\pararsid12341163\contextualspace \rtlch\fcs1 \af0\afs22\alang1025 \ltrch\fcs0 \f40\fs22\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {
+\rtlch\fcs1 \af0 \ltrch\fcs0 \f43\insrsid3556935 I do not want to have a senior page in the yearbook
+\par {\listtext\pard\plain\ltrpar \s15 \rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \fs22\loch\af41\hich\af41\dbch\af0\insrsid3556935 \loch\af41\dbch\af0\hich\f41 \'63\tab}I will design my own senior page and I do not need training
+\par {\listtext\pard\plain\ltrpar \s15 \rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \fs22\loch\af41\hich\af41\dbch\af0\insrsid3556935 \loch\af41\dbch\af0\hich\f41 \'63\tab}I will design my own senior page and I need training
+\par {\listtext\pard\plain\ltrpar \s15 \rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \fs22\loch\af41\hich\af41\dbch\af0\insrsid3556935 \loch\af41\dbch\af0\hich\f41 \'63\tab}}\pard \ltrpar
+\s15\ql \fi-360\li720\ri0\sa200\widctlpar\wrapdefault\aspalpha\aspnum\faauto\ls1\adjustright\rin0\lin720\itap0\pararsid4859673\contextualspace {\rtlch\fcs1 \af0 \ltrch\fcs0 \f43\insrsid3556935 I want to have someone on the yearbook staff design my page}{
+\rtlch\fcs1 \af0 \ltrch\fcs0 \f43\insrsid3556935\charrsid4859673 
+\par }\pard\plain \ltrpar\ql \li0\ri0\sa200\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid4859673 \rtlch\fcs1 \af0\afs22\alang1025 \ltrch\fcs0 \f40\fs22\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af0 
+\ltrch\fcs0 \f43\insrsid3556935\charrsid4859673 Senior Name (for embossing on yearbook):________________}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f43\insrsid3556935 __________________________}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f43\insrsid3556935\charrsid4859673 
+_____________
+\par }\pard \ltrpar\ql \li0\ri0\sa200\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid12341163 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f43\insrsid3556935\charrsid12341163 Senior }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f43\insrsid3556935 Ad}{
+\rtlch\fcs1 \af0 \ltrch\fcs0 \f43\insrsid3556935\charrsid12341163  }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f43\insrsid3556935 \endash }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f43\insrsid3556935\charrsid12341163  Yearbook}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f43\insrsid3556935  
+\endash  for parents
+\par {\listtext\pard\plain\ltrpar \s15 \rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \fs22\loch\af41\hich\af41\dbch\af0\insrsid3556935 \loch\af41\dbch\af0\hich\f41 \'63\tab}}\pard\plain \ltrpar
+\s15\ql \fi-360\li720\ri0\sa200\widctlpar\wrapdefault\aspalpha\aspnum\faauto\ls2\adjustright\rin0\lin720\itap0\pararsid12341163\contextualspace \rtlch\fcs1 \af0\afs22\alang1025 \ltrch\fcs0 \f40\fs22\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {
+\rtlch\fcs1 \af0 \ltrch\fcs0 \f43\insrsid3556935 I plan to purchase an ad for my senior
+\par {\listtext\pard\plain\ltrpar \s15 \rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \fs22\loch\af41\hich\af41\dbch\af0\insrsid3556935 \loch\af41\dbch\af0\hich\f41 \'63\tab}}\pard \ltrpar
+\s15\ql \fi-360\li1440\ri0\sa200\widctlpar\wrapdefault\aspalpha\aspnum\faauto\ls2\ilvl1\adjustright\rin0\lin1440\itap0\pararsid12341163\contextualspace {\rtlch\fcs1 \af0 \ltrch\fcs0 \f43\insrsid3556935 Full Page Ad - $50\tab 
+\par {\listtext\pard\plain\ltrpar \s15 \rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \fs22\loch\af41\hich\af41\dbch\af0\insrsid3556935 \loch\af41\dbch\af0\hich\f41 \'63\tab}Half Page Ad - $40\tab 
+\par {\listtext\pard\plain\ltrpar \s15 \rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \fs22\loch\af41\hich\af41\dbch\af0\insrsid3556935 \loch\af41\dbch\af0\hich\f41 \'63\tab}Quarter Page Ad - $25
+\par {\listtext\pard\plain\ltrpar \s15 \rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \fs22\loch\af41\hich\af41\dbch\af0\insrsid3556935 \loch\af41\dbch\af0\hich\f41 \'63\tab}}\pard \ltrpar
+\s15\ql \fi-360\li720\ri0\sa200\widctlpar\wrapdefault\aspalpha\aspnum\faauto\ls2\adjustright\rin0\lin720\itap0\pararsid12341163\contextualspace {\rtlch\fcs1 \af0 \ltrch\fcs0 \f43\insrsid3556935 I will design my ad myself or have my student help me
+\par {\listtext\pard\plain\ltrpar \s15 \rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \fs22\loch\af41\hich\af41\dbch\af0\insrsid3556935 \loch\af41\dbch\af0\hich\f41 \'63\tab}I need training to design my ad
+\par {\listtext\pard\plain\ltrpar \s15 \rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \fs22\loch\af41\hich\af41\dbch\af0\insrsid3556935 \loch\af41\dbch\af0\hich\f41 \'63\tab}I want to have someone on the yearbook staff design my ad
+\par }\pard \ltrpar\s15\ql \li720\ri0\sa200\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin720\itap0\pararsid12341163\contextualspace {\rtlch\fcs1 \af0 \ltrch\fcs0 \f43\insrsid3556935\charrsid12341163 
+\par }\pard\plain \ltrpar\ql \li0\ri0\sa200\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid12341163 \rtlch\fcs1 \af0\afs22\alang1025 \ltrch\fcs0 \f40\fs22\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af0 
+\ltrch\fcs0 \b\f43\ul\insrsid3556935\charrsid4859673 Achievement Night
+\par {\listtext\pard\plain\ltrpar \s15 \rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \fs22\loch\af41\hich\af41\dbch\af0\insrsid3556935 \loch\af41\dbch\af0\hich\f41 \'63\tab}}\pard\plain \ltrpar
+\s15\ql \fi-360\li720\ri0\sa200\widctlpar\wrapdefault\aspalpha\aspnum\faauto\ls3\adjustright\rin0\lin720\itap0\pararsid12341163\contextualspace \rtlch\fcs1 \af0\afs22\alang1025 \ltrch\fcs0 \f40\fs22\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {
+\rtlch\fcs1 \af0 \ltrch\fcs0 \f43\insrsid3556935 I do NOT plan for my student to participate on Achievement Night}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f43\insrsid3556935\charrsid12341163 
+\par {\listtext\pard\plain\ltrpar \s15 \rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \fs22\loch\af41\hich\af41\dbch\af0\insrsid3556935 \loch\af41\dbch\af0\hich\f41 \'63\tab}}\pard \ltrpar
+\s15\ql \fi-360\li720\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\ls3\adjustright\rin0\lin720\itap0\pararsid12341163\contextualspace {\rtlch\fcs1 \af0 \ltrch\fcs0 \f43\insrsid3556935 I plan for my student to participate on Achievement Night
+\par {\listtext\pard\plain\ltrpar \s15 \rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \fs22\loch\af41\hich\af41\dbch\af0\insrsid3556935 \loch\af41\dbch\af0\hich\f41 \'63\tab}}\pard \ltrpar
+\s15\ql \fi-360\li1440\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\ls3\ilvl1\adjustright\rin0\lin1440\itap0\pararsid12341163\contextualspace {\rtlch\fcs1 \af0 \ltrch\fcs0 \f43\insrsid3556935 I already have a cap & gown or know where to get one
+\par {\listtext\pard\plain\ltrpar \s15 \rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \fs22\loch\af41\hich\af41\dbch\af0\insrsid3556935 \loch\af41\dbch\af0\hich\f41 \'63\tab}I need information about getting a cap & gown
+\par {\listtext\pard\plain\ltrpar \s15 \rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \fs22\loch\af41\hich\af41\dbch\af0\insrsid3556935 \loch\af41\dbch\af0\hich\f41 \'63\tab}}\pard \ltrpar
+\s15\ql \fi-360\li720\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\ls3\adjustright\rin0\lin720\itap0\pararsid4859673\contextualspace {\rtlch\fcs1 \af0 \ltrch\fcs0 \f43\insrsid3556935 My student does NOT want to receive the \'93Class Of\'94
+ medal with their name engraved
+\par {\listtext\pard\plain\ltrpar \s15 \rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \fs22\loch\af41\hich\af41\dbch\af0\insrsid3556935 \loch\af41\dbch\af0\hich\f41 \'63\tab}My student would like to receive the \'93Class Of\'94 medal with their name engraved. (no charge)
+
+\par }\pard\plain \ltrpar\ql \li0\ri0\sb240\sa200\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid4859673 \rtlch\fcs1 \af0\afs22\alang1025 \ltrch\fcs0 \f40\fs22\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 
+\af0 \ltrch\fcs0 \f43\insrsid3556935\charrsid4859673 Senior Name (for engr}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f43\insrsid3556935 aving on medal):_______________}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f43\insrsid3556935\charrsid4859673 _____}{\rtlch\fcs1 \af0 
+\ltrch\fcs0 \f43\insrsid3556935 ___________________________}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f43\insrsid3556935\charrsid4859673 ___________}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f43\insrsid3556935 
+\par }{\rtlch\fcs1 \af0 \ltrch\fcs0 \b\f43\ul\insrsid3556935\charrsid4859673 Contact information
+\par }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f43\insrsid3556935 Senior email address & phone#: ________________________________________________________________
+\par Parent email address & phone#: ________________________________________________________________
+\par }\pard \ltrpar\ql \li0\ri0\sb240\sa200\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid15224464 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f43\insrsid3556935 Parent Name(s): _______________________________________________
+_______________________________
+\par }\pard \ltrpar\ql \li0\ri0\sb240\sa200\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid4859673 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f43\insrsid3556935 
+\par }\pard \ltrpar\qc \li0\ri0\sb240\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid15224464 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f43\insrsid3556935 Please return this completed form to Linda Barnhill \endash  26 Nob Hill Road 
+\endash  Columbia, SC 29210
+\par }\pard \ltrpar\qc \li0\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid15224464 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f43\insrsid3556935 If you have questions, email }{\field{\*\fldinst {\rtlch\fcs1 \af0 \ltrch\fcs0 
+\insrsid3556935 HYPERLINK "mailto:elbeemee@bellsouth.net"}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid5915918 {\*\datafield 
+00d0c9ea79f9bace118c8200aa004ba90b0200000003000000e0c9ea79f9bace118c8200aa004ba90b540000006d00610069006c0074006f003a0065006c006200650065006d00650065004000620065006c006c0073006f007500740068002e006e00650074000000795881f43b1d7f48af2c825dc485276300000000a5ab
+0000}}}{\fldrslt {\rtlch\fcs1 \af0 \ltrch\fcs0 \cs16\f43\ul\cf2\insrsid3556935\charrsid1835053 elbeemee@bellsouth.net}}}\sectd \linex0\endnhere\sectlinegrid360\sectdefaultcl\sectrsid8278948\sftnbj {\rtlch\fcs1 \af0 \ltrch\fcs0 \f43\insrsid3556935 
+ or call 772-3184}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f43\insrsid3556935\charrsid4859673 
+\par }}
